@@ -1,0 +1,114 @@
+Debugging starts
+Banks wanted:6,Ptr:0100
+JmptblOffset:00000020,Jmptblsize:00000008,AboveA5:00000028,A5:00126ce8,Gblsize:00006c8c
+OutputDataStart:00120084
+CompressdDataEnd:0105993b
+OutputDataStart:00120084
+CompressdDataEnd:01059940
+OutputDataStart:00120084
+CompressdDataEnd:01059945
+Banks wanted:1,Ptr:0106
+I - CPU Started
+Handle:01047bd2
+Handle:0104caa2
+Handle:0104f066
+Handle:01053be2
+Handle:010543b2
+Handle:01059968
+Handle:01059968
+Creator:psys,Ftrnum:1,Exists:True
+Creator:psys,Ftrnum:1,Exists:True
+value:4,Addr:0010ffb0
+value:5,Addr:0010ffa6
+Custom alert!
+S1:5
+S2:4
+S3:
+Compatibility
+,This game was designed to work with Palm OS 3.0 to 5.0, and may not work with your version (^1.^2), especially if it has new hardware. Please contact support@astraware.com
+,Exit
+,Continue
+supporteddepths
+HeapNum:0
+Cardnum:0,cardname:00000000,cardmanuf:00000000,version:0,Date:00000000,RomSize:00000000,RamSize:00000000,FreeBytes:0010ff86
+A0:00126d4c,Size:00001dd8
+Handle:00126d4c
+Creator:AsZS,Id:0,prefptr:001249bc,szptr:0010ff58,size:00a6
+Resptr:0105995e,Prefptr:001249bc,Size:166
+Creator:AsZS,Id:0,prefptr:00000000,szptr:0010ff38,size:0000
+Resptr:0105995e,Prefptr:00000000,Size:0
+Creator:fway,Ftrnum:0,Exists:True
+Creator:SoNy,Ftrnum:1,Exists:False
+getscreenmode
+setscreenmode Width:160,Height:160,BPP:16,Color:1
+10 chars to print.
+Chars:Loading...
+14 chars to print.
+Chars:Please wait...
+10 chars to print.
+Chars:Loading...
+14 chars to print.
+Chars:Please wait...
+Creator:TRG ,Ftrnum:2,Exists:False
+ResDb (bool):0
+A0:00126da4,Size:00000400
+Creator:psys,Ftrnum:21,Exists:True
+Creator:psys,Ftrnum:1,Exists:True
+Creator:psys,Ftrnum:1,Exists:True
+Creator:psys,Ftrnum:2,Exists:True
+Creator:psys,Ftrnum:1,Exists:True
+Creator:psys,Ftrnum:1,Exists:True
+Handle:010012b6
+Draw Bitmap:(Src:010012b6,Dst:00120040,X:16,Y:67)
+BMP flags:8000
+FrameBuffLoc:1f000000
+Handle:010012b6
+10 chars to print.
+Chars:Loading...
+14 chars to print.
+Chars:Please wait...
+Handle:01018152
+A0:001380dc,Size:00006b80
+Handle:001380dc
+Handle:00e00000
+A0:0013ec5c,Size:00004000
+Handle:0013ec5c
+Handle:00e0d700
+A0:00142c5c,Size:00004000
+Handle:00142c5c
+Handle:0013ec5c
+Handle:00e00000
+AttachRecord:(DB:1,At:9999,OldPtr:00000000,NewPtr:00e00000)
+Handle:00e00000
+Handle:00142c5c
+Handle:00e0d700
+AttachRecord:(DB:1,At:9999,OldPtr:00000000,NewPtr:00e0d700)
+Handle:00e0d700
+Handle:01018152
+Creator:hsEx,Ftrnum:0,Exists:False
+10 chars to print.
+Chars:Loading...
+14 chars to print.
+Chars:Please wait...
+Creator:AsZS,Ftrnum:21364,Exists:True
+EventType:23
+ResID:0064
+FormPtr:00142c88
+Evt handler:01043d52,FormPtr:00142c88
+Evtnum:23,Frmid:0064,FrmPtr:00142c88
+Creator:AsZS,Ftrnum:21364,Exists:True
+Creator:AsZS,Ftrnum:21364,Exists:True
+Creator:AsZS,Ftrnum:21364,Exists:True
+EventType:24
+Evtnum:24,Frmid:0064,FrmPtr:00142c88
+Draw Bitmap:(Src:00142ccc,Dst:00120040,X:0,Y:0)
+BMP flags:0000
+FrameBuffLoc:1f000000
+ACTwin:00142c88,DRAWwin:00142c88,Thisform:00142c88
+Creator:AsZS,Ftrnum:21364,Exists:True
+Creator:AsZS,Ftrnum:21364,Exists:True
+Creator:AsZS,Ftrnum:21364,Exists:True
+EventType:6
+Creator:AsZS,Ftrnum:21364,Exists:True
+Creator:AsZS,Ftrnum:21364,Exists:True
+Creator:AsZS,Ftrnum:21364,Exists:True
