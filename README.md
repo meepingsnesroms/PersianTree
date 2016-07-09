@@ -6,14 +6,14 @@ This is not for end users,the app paths are hardcoded right now and the only gam
 Nothing is perfect.
 
 WORKING:
-Framebuffer output
-Palm device buttons
+Framebuffer output,
+Palm device buttons,
 PRC and PDB file loading
 
 BROKEN:
-Sound
-Keyboard input
-Arm Emulation
+Sound,
+Keyboard input,
+Arm Emulation,
 Everything else
 
 Dont work on anything QT related execpt maybe the sound driver because the UI is switching to RetroArch.
