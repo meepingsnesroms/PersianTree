@@ -5,12 +5,12 @@ This is not for end users,the app paths are hardcoded right now and the only gam
 
 Nothing is perfect.
 
-WORKING
+WORKING:
 Framebuffer output
 Palm device buttons
 PRC and PDB file loading
 
-BROKEN
+BROKEN:
 Sound
 Keyboard input
 Arm Emulation
